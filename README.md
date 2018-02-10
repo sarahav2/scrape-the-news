@@ -45,4 +45,4 @@ Add comments by filling in the form
 
 ## Authors
 
-* **Stefanie Ding** - Full Stack Developer - [Stefanie Ding](https://github.com/StefanieDing)
+* **Sarah Avwata** - Full Stack Developer - [Sarah Avwata](https://github.com/Sarahav)
